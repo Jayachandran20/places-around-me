@@ -20,6 +20,7 @@ Define your components pages and create content in such a way that it gives info
 
 Include pictures and contents for your subpages and map them using urls and views
 ## Code:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -39,9 +40,10 @@ Include pictures and contents for your subpages and map them using urls and view
         </map>
 </body>
 </html>
+```
 ## Output:
 
 
 
 ## Result:
-Write your result
+Thus a website is developed to display details about the places around my house.
